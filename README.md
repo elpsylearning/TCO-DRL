@@ -41,7 +41,10 @@ sudo python main.py
 **Modify:**  
 
 > w3(Web3.HTTPProvider)
+> 
 > SELECTION_CONTRACT_ADDR
+> 
 > self.web3(Web3.WebsocketProvider)
+> 
 > the path of compiled smart contracts
 
